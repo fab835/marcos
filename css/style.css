@@ -1,0 +1,33 @@
+   .escurecer_azul{
+      background: linear-gradient( rgba(1, 23 , 67, 0.60), rgba(1, 23 , 67, 0.60) ),url(../img/coolchineseguy.jpg);
+      background-image: linear-gradient(rgba(1, 23 , 67, 0.60), rgba(1, 23 , 67, 0.60)), url(../img/coolchineseguy.jpg);
+      background-position-x: initial, initial;
+      background-position-y: initial, initial;
+      background-size: cover;
+      background-repeat-x: initial, initial;
+      background-repeat-y: initial, initial;
+      background-attachment: fixed;
+      background-origin: initial, initial;
+      background-clip: initial, initial;
+      background-color: initial;
+      background-size: cover;
+   }
+
+    .escurecer{
+      background: linear-gradient( rgba(0, 0, 0 , 0.60), rgba(0, 0, 0 , 0.60) ),url(../img/coolchineseguy.jpg);
+      background-image: linear-gradient(rgba(0, 0, 0 , 0.60), rgba(0, 0, 0 , 0.60)), url(../img/coolchineseguy.jpg);
+      background-position-x: initial, initial;
+      background-position-y: initial, initial;
+      background-size: cover;
+      background-repeat-x: initial, initial;
+      background-repeat-y: initial, initial;
+      background-attachment: fixed;
+      background-origin: initial, initial;
+      background-clip: initial, initial;
+      background-color: initial;
+      background-size: cover;
+    }
+    .recuo{
+      text-indent:4em;
+      text-align: justify;
+    }
