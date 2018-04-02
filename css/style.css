@@ -14,8 +14,8 @@
    }
 
     .escurecer{
-      background: linear-gradient( rgba(0, 0, 0 , 0.60), rgba(0, 0, 0 , 0.60) ),url(../img/coolchineseguy.jpg);
-      background-image: linear-gradient(rgba(0, 0, 0 , 0.60), rgba(0, 0, 0 , 0.60)), url(../img/coolchineseguy.jpg);
+      background: linear-gradient( rgba(0, 0, 0 , 0.40), rgba(0, 0, 0 , 0.40) ),url(../img/coolchineseguy.jpg);
+      background-image: linear-gradient(rgba(0, 0, 0 , 0.40), rgba(0, 0, 0 , 0.40)), url(../img/coolchineseguy.jpg);
       background-position-x: initial, initial;
       background-position-y: initial, initial;
       background-size: cover;
